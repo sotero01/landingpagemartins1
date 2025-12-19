@@ -26,7 +26,7 @@ export const Footer = () => {
           <div>
             <h3 className="font-semibold text-lg mb-4">Contato</h3>
             <ul className="space-y-2 text-primary-foreground/80">
-              <li>Tel: (11) 99999-9999</li>
+              <li>Tel: (85) 99737-0419 </li>
               <li>contato@martinsforropvc.com.br</li>
               <li>Segunda a Sexta: 8h às 18h</li>
               <li>Sábado: 8h às 13h</li>

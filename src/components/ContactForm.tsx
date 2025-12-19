@@ -65,7 +65,7 @@ export const ContactForm = () => {
         (validatedData.message ? `\nMensagem: ${validatedData.message}` : "")
       );
       
-      const whatsappNumber = "5585991645109";
+      const whatsappNumber = "5585997370419";
       window.open(`https://api.whatsapp.com/send?phone=${whatsappNumber}&text=${whatsappMessage}`, "_blank");
 
       // Limpar formulário
@@ -205,7 +205,7 @@ export const ContactForm = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-primary mb-1">Telefone/WhatsApp</h3>
-                    <p className="text-muted-foreground">(85) 991645109</p>
+                    <p className="text-muted-foreground">(85) 99737-0419</p>
                   </div>
                 </div>
 
